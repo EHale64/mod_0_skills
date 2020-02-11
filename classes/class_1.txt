@@ -1,0 +1,16 @@
+Class: Chili
+
+ingredients (array of strings)
+portion_size (integer)
+is_served? (boolean)
+price (float)
+
+change_recipe (modifies the data in the string for ingredients thereby modifying
+the ingredients attribute)
+
+serve (modifies the is_served attribute by setting it to true)
+
+daily_special (modifies the price attribute by lowering it on specific date/times)
+
+dinner_portion (modifies the portion_size attribute by increasing the size of
+the meal)
