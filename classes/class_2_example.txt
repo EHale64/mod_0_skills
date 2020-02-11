@@ -1,0 +1,17 @@
+Object: Lemonade and Iced Tea mix
+
+has_alcohol = false
+
+temperature = 72.17
+
+name = "Lemonade and Iced Tea mix"
+
+price = 4
+
+add_bourbon.has_alcohol = true
+
+cool.temperature = 42.17
+
+rename("Arnold Palmer").name = "Arnold Palmer"
+
+happy_hour.price = 1
