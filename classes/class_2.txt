@@ -1,0 +1,18 @@
+Class: Drinks
+
+has_alcohol? (boolean)
+
+temperature (float)
+
+name (string)
+
+price (integer)
+
+
+add_bourbon (sets the has_alcohol attribute to true)
+
+cool (subtracts 30 from the temperature attribute)
+
+rename (modifies the name attribute with a new string)
+
+happy_hour (subtracts 3 from the price attribute)
