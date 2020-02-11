@@ -1,0 +1,10 @@
+food = "PIZZA"
+is_new = false
+food = "Ramen"
+num1 = 29
+num2 = 26
+num1 * num2 = num3
+movies = ["Avengers: Endgame", "Kiss Kiss Bang Bang", "Howl's Moving Castle",
+"Marriage Story"]
+movies.pop
+movies.count
