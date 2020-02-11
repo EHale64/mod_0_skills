@@ -1,0 +1,19 @@
+Object: White Bean Turkey Chili
+
+ingredients = ["Ground Turkey", "Cannellini Beans", "Chili Powder", "Shredded Cheese",
+"Sour Cream"]
+
+portion_size = 2
+
+is_served = false
+
+price = 8.99
+
+change_recipe.ingredients = ["Ground Turkey", "Black Beans", "Chili powder", "Toast",
+"Green Onions"]
+
+dinner_portion.portion_size = 4
+
+serve.is_served = true
+
+daily_special.price = 5.99
